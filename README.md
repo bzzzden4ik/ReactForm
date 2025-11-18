@@ -1,9 +1,9 @@
 # React + TypeScript + Vite
 
 Проект направлен на разработку формы для авторизации пользовтеля при помощи следующего стека технологий:
--React + Vite + TypeScript
--React-hook-form
--Zod
+React + Vite + TypeScript,
+React-hook-form,
+Zod
 
 ## React-hook-form
 Библиотека для удобной работы с формами
@@ -19,13 +19,11 @@ npm install
 ## Руководство по применению
 
 ```bash
-npm install
 npm run build
 npm start
 ```
 
 ## Руководство по режиму разработки
 ```bash
-npm install
 npm run dev
 ```
